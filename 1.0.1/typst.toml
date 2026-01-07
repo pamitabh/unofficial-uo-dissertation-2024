@@ -1,6 +1,6 @@
 [package]
 name = "unofficial-uo-dissertation-2024"
-version = "1.0.0"
+version = "1.0.1"
 entrypoint = "config.typ"
 authors = [ "Piyush Amitabh <https://github.com/pamitabh>" ]
 license = "MIT"
